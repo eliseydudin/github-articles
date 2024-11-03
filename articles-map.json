@@ -1,3 +1,10 @@
 {
-    
+    "articles": [
+        {
+            "title" : "hello world!",
+            "date" : "nov 3 2024",
+            "flavour_text" : "hehe i made this website today :3",
+            "url" : "https://raw.githubusercontent.com/eliseydudin/github-articles/refs/heads/main/articles/hello_world.md"
+        }
+    ]
 }
