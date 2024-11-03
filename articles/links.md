@@ -1,0 +1,5 @@
+- discord - `gabrielonline`
+- email - `eliseydudin630@gmail.com`
+- [the silliest kitty telegram channel](https://t.me/silly_online)
+- [the silliest kitty discord server](https://discord.gg/kittycore-sillycore-1025339762493624350)
+- github - `eliseydudin`
